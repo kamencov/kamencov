@@ -2,7 +2,7 @@
 
 **Мой стек технологий:**
 
-<img src="https://img.shields.io/badge/GoLand-00008B?style=for-the-badge&logo=GoLand&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-00008B?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-00008B?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-00008B?style=for-the-badge&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-00008B?style=for-the-badge&logo=Swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoLand-00008B?style=for-the-badge&logo=GoLand&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-00008B?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-00008B?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-00008B?style=for-the-badge&logo=SQL&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-00008B?style=for-the-badge&logo=Swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/Goose-00008B?style=for-the-badge&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rest API-00008B?style=for-the-badge&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/gRPC-00008B?style=for-the-badge&logo=&logoColor=white"/>
